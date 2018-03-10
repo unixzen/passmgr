@@ -63,6 +63,10 @@ For example, show action: python3 passmgr.py show bank
 show_all action output all items at passmgr
 ```
 
+#### LIMITATIONS
+
+Action `edit` apply only for items username, password and description.
+
 #### TODO
 
 * Make webapp passmgr

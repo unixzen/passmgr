@@ -24,6 +24,10 @@ sudo yum install sqlite
 
 2. Clone repo [passmgr](https://github.com/unixzen/passmgr.git).
 
+```
+git clone https://github.com/unixzen/passmgr.git
+```
+
 3. Create database where will be store data about passwords.
 
 ```
